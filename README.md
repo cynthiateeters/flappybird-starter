@@ -1,3 +1,10 @@
+# Kaboom Tutorial
+
+This is a simple project template for kaboom.js, a javascript game library.
+
+From [How to make Flappy Bird game in JavaScript - Step by step tutorial](https://www.youtube.com/watch?v=jr-XVRX163I) by [As a Programmer](https://www.youtube.com/@asaprogrammer_)
+
+
 # Folder structure
 
 - `src` - source code for your kaboom project
